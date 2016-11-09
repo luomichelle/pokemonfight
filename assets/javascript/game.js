@@ -3,32 +3,32 @@ $(document).ready(function() {
   // ----------------------------------------------------------------
   // Create 4 characters with objects.
   var characters = {
-    'Obi-Wan Kenobi': {
-      name: 'Obi-Wan Kenobi',
+    'Pikachu': {
+      name: 'Pikachu',
       health: 120,
       attack: 8,
       imageUrl: "assets/images/pikachu3.png",
       enemyAttackBack: 15
     },
-    'Luke Skywalker': {
-      name: 'Luke Skywalker',
+    'Ivysaur': {
+      name: 'Ivysaur',
       health: 100,
       attack: 14,
       imageUrl: "assets/images/ivysaur.png",
       enemyAttackBack: 5
     },
-    'Darth Sidious': {
-      name: 'Darth Sidious',
+    'Squirtle': {
+      name: 'Squirtle',
       health: 150,
       attack: 8,
       imageUrl: "assets/images/squirtle.png",
       enemyAttackBack: 20
     },
-    'Darth Maul': {
-      name: 'Darth Maul',
+    'Clefairy': {
+      name: 'Clefairy',
       health: 180,
       attack: 7,
-      imageUrl: "assets/images/clefairy.png",
+      imageUrl: "assets/images/Clefairy.png",
       enemyAttackBack: 25
     }
   };
