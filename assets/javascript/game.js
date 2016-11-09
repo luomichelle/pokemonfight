@@ -21,14 +21,14 @@ $(document).ready(function() {
       name: 'Darth Sidious',
       health: 150,
       attack: 8,
-      imageUrl: "assets/images/Squirtle.png",
+      imageUrl: "assets/images/squirtle.png",
       enemyAttackBack: 20
     },
     'Darth Maul': {
       name: 'Darth Maul',
       health: 180,
       attack: 7,
-      imageUrl: "assets/images/Clefairy.png",
+      imageUrl: "assets/images/clefairy.png",
       enemyAttackBack: 25
     }
   };
