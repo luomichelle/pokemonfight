@@ -28,7 +28,7 @@ $(document).ready(function() {
       name: 'Clefairy',
       health: 180,
       attack: 7,
-      imageUrl: "assets/images/Clefairy.png",
+      imageUrl: "assets/images/clefairy.png",
       enemyAttackBack: 25
     }
   };
