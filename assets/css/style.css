@@ -9,6 +9,10 @@ img {
 	border-radius: 10px;
 }
 
+#main-game-section{
+	margin-left:20%;
+}
+
 .character-image {
 	padding: 0px 16px;
 	margin: 3px 0px;
@@ -96,3 +100,10 @@ img {
 	background-color: black;
 	color: white;
 }
+
+#gameMessage {
+	margin-bottom: 10%;
+	font-size: 20px;
+	color: white;
+}
+
