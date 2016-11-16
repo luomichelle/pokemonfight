@@ -1,4 +1,4 @@
-# pokemonfight
+# Pokemonfight
 * This is a combat based RPG Game, the player will fight with a character of their choice against the computer.
 * At the start of the game the player will choose a character by clicking on the character's picture. The player will play as that character for the rest of the game.
 * Every character that was not picked is now an enemy that the player must defeat. Enemies should be moved to a different area of the screen.
